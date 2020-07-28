@@ -1,0 +1,12 @@
+[submodule "pulpcore"]
+	path = pulpcore
+	url = git@github.com:pulp/pulpcore.git
+[submodule "pulp_file"]
+	path = pulp_file
+	url = git@github.com:pulp/pulp_file.git
+[submodule "pulp_certguard"]
+	path = pulp_certguard
+	url = git@github.com:pulp/pulp-certguard.git
+[submodule "pulp_installer"]
+	path = pulp_installer
+	url = git@github.com:pulp/pulp_installer.git
